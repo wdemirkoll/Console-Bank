@@ -1,4 +1,4 @@
-# 🏦 Console Bank (C++)
+# 🏦 Console Bank
 
 **Console Bank** is a simple yet educational **console-based banking simulation** written in C++.  
 This project is designed for those who want to learn the basics of C++ input/output, loops, conditions, and menu-driven systems.  
